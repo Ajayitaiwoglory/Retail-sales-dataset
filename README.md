@@ -1,6 +1,7 @@
 # 📊 Retail Sales Analysis Using Microsoft Excel 
 
 <img width="263" height="148" alt="Image" src="https://github.com/user-attachments/assets/963b12be-dcb8-4379-9f2f-1880d235f742" />
+
 ## 📌 Project Overview
 
 This project explores a retail sales dataset using **Microsoft Excel** to identify customer purchasing behavior, spending trends, product popularity, and the relationship between product pricing and purchase quantity.
