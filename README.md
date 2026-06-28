@@ -293,9 +293,11 @@ images/price-vs-quantity.png
 
 ## 👤 Author
 
-**Your Name**
+**Your Name** AJAYI TAIWO
 
 Microsoft Excel Retail Sales Analysis Project
 
 ---
-⭐ If you found this project useful, feel free to star the repository. 
+⭐ If you found this project useful, feel free to star the repository.
+
+I am open to collaborate on data anaylsis, statistical anaylsis and visualization related project. You can reach me via email (tomidiora79@gmail.com)
