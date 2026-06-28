@@ -293,7 +293,9 @@ images/price-vs-quantity.png
 
 ## 👤 Author
 
-**Your Name** AJAYI TAIWO
+**Your Name** 
+
+AJAYI TAIWO
 
 Microsoft Excel Retail Sales Analysis Project
 
